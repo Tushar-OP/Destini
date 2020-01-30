@@ -4,4 +4,9 @@ A new Flutter application. A choice driven game which drives from some hilarious
 
 Do give it a try!
 
+![](Destini.gif)
+
+
+Cheers!
+
 
